@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ResumeMate - Personalized Career Path</title>
+  <meta name="description" content="Review your resume analysis, career score, and personalized roadmap suggestions. Take actionable steps to improve your career trajectory.">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f9f9f9;
+    }
+    .card {
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+    }
+    .btn-primary {
+      background-color: #007bff;
+      border-color: #007bff;
+    }
+    .btn-primary:hover {
+      background-color: #0056b3;
+      border-color: #0056b3;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container d-flex flex-column align-items-center justify-content-center min-vh-100">
+    <div class="card shadow-lg p-4 w-100" >
+      <h5 class="text-center text-primary m-0">Your Personalized Feedback</h5>
+
+      <div id="preview" class="mt-1 p-3 bg-light" style="height: 88vh; overflow-y: auto; border: 1px solid #ccc;">
+        <%- text %>
+      </div>
+
+     
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

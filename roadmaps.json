@@ -1,0 +1,301 @@
+{
+  "RoleBasedRoadmaps": [
+    {
+      "name": "Frontend Beginner",
+      "url": "https://roadmap.sh/frontend?r=frontend-beginner",
+      "pdf_url": "https://roadmap.sh/frontend?r=frontend-beginner"
+    },
+    {
+      "name": "Backend Beginner",
+      "url": "https://roadmap.sh/backend?r=backend-beginner",
+      "pdf_url": "https://roadmap.sh/backend?r=backend-beginner"
+    },
+    {
+      "name": "DevOps Beginner",
+      "url": "https://roadmap.sh/devops?r=devops-beginner",
+      "pdf_url": "https://roadmap.sh/devops?r=devops-beginner"
+    },
+    {
+      "name": "Frontend",
+      "url": "https://roadmap.sh/frontend",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/frontend.pdf"
+    },
+    {
+      "name": "Backend",
+      "url": "https://roadmap.sh/backend",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/backend.pdf"
+    },
+    {
+      "name": "Full Stack",
+      "url": "https://roadmap.sh/full-stack",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/full-stack.pdf"
+    },
+    {
+      "name": "API Design",
+      "url": "https://roadmap.sh/api-design",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/api-design.pdf"
+    },
+    {
+      "name": "QA",
+      "url": "https://roadmap.sh/qa",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/qa.pdf"
+    },
+    {
+      "name": "DevOps",
+      "url": "https://roadmap.sh/devops",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/devops.pdf"
+    },
+    {
+      "name": "Android",
+      "url": "https://roadmap.sh/android",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/android.pdf"
+    },
+    {
+      "name": "iOS",
+      "url": "https://roadmap.sh/ios",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/ios.pdf"
+    },
+    {
+      "name": "PostgreSQL",
+      "url": "https://roadmap.sh/postgresql-dba",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/postgresql-dba.pdf"
+    },
+    {
+      "name": "Software Architect",
+      "url": "https://roadmap.sh/software-architect",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/software-architect.pdf"
+    },
+    {
+      "name": "Technical Writer",
+      "url": "https://roadmap.sh/technical-writer",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/technical-writer.pdf"
+    },
+    {
+      "name": "DevRel Engineer",
+      "url": "https://roadmap.sh/devrel",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/devrel.pdf"
+    },
+    {
+      "name": "AI and Data Scientist",
+      "url": "https://roadmap.sh/ai-data-scientist",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/ai-data-scientist.pdf"
+    },
+    {
+      "name": "AI Engineer",
+      "url": "https://roadmap.sh/ai-engineer",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/ai-engineer.pdf"
+    },
+    {
+      "name": "Data Analyst",
+      "url": "https://roadmap.sh/data-analyst",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/data-analyst.pdf"
+    },
+    {
+      "name": "MLOps",
+      "url": "https://roadmap.sh/mlops",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/mlops.pdf"
+    },
+    {
+      "name": "Product Manager",
+      "url": "https://roadmap.sh/product-manager",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/product-manager.pdf"
+    },
+    {
+      "name": "Engineering Manager",
+      "url": "https://roadmap.sh/engineering-manager",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/engineering-manager.pdf"
+    },
+    {
+      "name": "Client Side Game Dev.",
+      "url": "https://roadmap.sh/game-developer",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/game-developer.pdf"
+    },
+    {
+      "name": "Server Side Game Dev.",
+      "url": "https://roadmap.sh/server-side-game-developer",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/server-side-game-developer.pdf"
+    },
+    {
+      "name": "UX Design",
+      "url": "https://roadmap.sh/ux-design",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/ux-design.pdf"
+    },
+    {
+      "name": "Blockchain",
+      "url": "https://roadmap.sh/blockchain",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/blockchain.pdf"
+    },
+    {
+      "name": "Cyber Security",
+      "url": "https://roadmap.sh/cyber-security",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/cyber-security.pdf"
+    }
+  ],
+  "SkillBasedRoadmaps": [
+    {
+      "name": "GraphQL",
+      "url": "https://roadmap.sh/graphql",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/graphql.pdf"
+    },
+    {
+      "name": "Git and GitHub",
+      "url": "https://roadmap.sh/git-github",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/git-github.pdf"
+    },
+    {
+      "name": "React",
+      "url": "https://roadmap.sh/react",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/react.pdf"
+    },
+    {
+      "name": "Vue",
+      "url": "https://roadmap.sh/vue",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/vue.pdf"
+    },
+    {
+      "name": "Angular",
+      "url": "https://roadmap.sh/angular",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/angular.pdf"
+    },
+    {
+      "name": "Spring Boot",
+      "url": "https://roadmap.sh/spring-boot",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/spring-boot.pdf"
+    },
+    {
+      "name": "ASP.NET Core",
+      "url": "https://roadmap.sh/aspnet-core",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/aspnet-core.pdf"
+    },
+    {
+      "name": "JavaScript",
+      "url": "https://roadmap.sh/javascript",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/javascript.pdf"
+    },
+    {
+      "name": "TypeScript",
+      "url": "https://roadmap.sh/typescript",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/typescript.pdf"
+    },
+    {
+      "name": "Node.js",
+      "url": "https://roadmap.sh/nodejs",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/nodejs.pdf"
+    },
+    {
+      "name": "PHP",
+      "url": "https://roadmap.sh/php",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/php.pdf"
+    },
+    {
+      "name": "C++",
+      "url": "https://roadmap.sh/cpp",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/cpp.pdf"
+    },
+    {
+      "name": "Go",
+      "url": "https://roadmap.sh/golang",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/golang.pdf"
+    },
+    {
+      "name": "Rust",
+      "url": "https://roadmap.sh/rust",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/rust.pdf"
+    },
+    {
+      "name": "Python",
+      "url": "https://roadmap.sh/python",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/python.pdf"
+    },
+    {
+      "name": "Java",
+      "url": "https://roadmap.sh/java",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/java.pdf"
+    },
+    {
+      "name": "SQL",
+      "url": "https://roadmap.sh/sql",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/sql.pdf"
+    },
+    {
+      "name": "Docker",
+      "url": "https://roadmap.sh/docker",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/docker.pdf"
+    },
+    {
+      "name": "Kubernetes",
+      "url": "https://roadmap.sh/kubernetes",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/kubernetes.pdf"
+    },
+    {
+      "name": "AWS",
+      "url": "https://roadmap.sh/aws",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/aws.pdf"
+    },
+    {
+      "name": "Linux",
+      "url": "https://roadmap.sh/linux",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/linux.pdf"
+    },
+    {
+      "name": "Terraform",
+      "url": "https://roadmap.sh/terraform",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/terraform.pdf"
+    },
+    {
+      "name": "React Native",
+      "url": "https://roadmap.sh/react-native",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/react-native.pdf"
+    },
+    {
+      "name": "Flutter",
+      "url": "https://roadmap.sh/flutter",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/flutter.pdf"
+    },
+    {
+      "name": "MongoDB",
+      "url": "https://roadmap.sh/mongodb",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/mongodb.pdf"
+    },
+    {
+      "name": "Redis",
+      "url": "https://roadmap.sh/redis",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/redis.pdf"
+    },
+    {
+      "name": "Computer Science",
+      "url": "https://roadmap.sh/computer-science",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/computer-science.pdf"
+    },
+    {
+      "name": "Data Structures",
+      "url": "https://roadmap.sh/datastructures-and-algorithms",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/datastructures-and-algorithms.pdf"
+    },
+    {
+      "name": "System Design",
+      "url": "https://roadmap.sh/system-design",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/system-design.pdf"
+    },
+    {
+      "name": "Design and Architecture",
+      "url": "https://roadmap.sh/software-design-architecture",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/software-design-architecture.pdf"
+    },
+    {
+      "name": "Code Review",
+      "url": "https://roadmap.sh/code-review",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/code-review.pdf"
+    },
+    {
+      "name": "Prompt Engineering",
+      "url": "https://roadmap.sh/prompt-engineering",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/prompt-engineering.pdf"
+    },
+    {
+      "name": "Design System",
+      "url": "https://roadmap.sh/design-system",
+      "pdf_url": "https://roadmap.sh/pdfs/roadmaps/design-system.pdf"
+    }
+  ]
+}
